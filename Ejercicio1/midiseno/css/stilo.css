@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@500&family=Inter:wght@300;400;500&display=swap');
+body{
+    background-color: #FEFDF9;
+}
+h1{
+    font-family: 'Nuosul Sil';
+    font-size: 60px;
+}
+h3{
+    color: #ECAD4E;
+    margin-bottom: 25px;
+    padding-top: 15px;
+    font-size: 50px;
+}
+h2{
+font-family: 'Inter';
+font-weight: 900;
+font-size: 60px;
+}
+h5{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 15px;
+    font-size: 25px;
+}
+h5:hover{
+    color:#ECAD4E;
+}
+h6{
+    color: #C7C7C9;
+    font-size: 35px;
+}
+.cuarto:hover{
+    color: #E39E96;
+;
+}
+.uno{
+ margin-top: 25px;
+ margin-bottom: 10px;   
+}
+.menu{
+color: black;
+margin-top: 15px;
+}
+.menu:hover{
+color: #E39E96;
+}
+.principal{
+    width: 108%;
+}
+.lateral{
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    margin-right: 3px;
+    margin-left: 85px;
+    padding-left: 25px;
+    padding-right: 20px;
+    width: fit-content;
+}
+.lat{
+    padding-top: 15px;
+    border-bottom:1px solid #9595A9;
+    color: #9595A9;
+    padding-bottom: 40px;
+}
+.no{
+    border: none;
+    padding-bottom: 20px;
+}
+.segundo{
+    margin-top: 15px;
+    margin-left: 25px;
+}
+.descripcion{
+    font-size: 20px;
+}
+.btn{
+    border-radius: 0%;
+}
+.cuarto{
+    font-size: larger;
+}
+.carta{
+    background-color: #FEFDF9;
+    border: none;
+
+}
+.tres{
+    margin-top: 40px;
+}
